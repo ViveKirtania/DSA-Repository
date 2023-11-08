@@ -28,6 +28,8 @@
 *.so.*
 *.dylib
 
+/ignored.c
+
 # Executables
 *.exe
 *.out
